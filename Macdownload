@@ -1,0 +1,1 @@
+cp -r "out/mac-arm64/Cupid Player.app" /Applications/
